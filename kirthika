@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Made with Thimble</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Welcome To The World</h1>
+    <style>p.exl {
+    font-style: "Times New Roman", serif;</style>
+    <p>
+      The world is an <strong>amazing</strong> place, so enjoy your life with your family and friends. Try to always find the bright side to things.
+    </p>
+    <style>
+      p.exl {
+      font-style: "Times New Roman", serif;}
+    </style>
+    <img
+  scr="https://pbs.twimg.com/profile_images/587949417577066499/3uCD4xxY_400x400.jpg">
+    <table>
+    <tr>
+      <th>Name</th>
+      <th>House</th>
+      </tr>
+    <tr>
+      <th>Peter</th>
+      <th>Hufflepuff</th>
+      </tr>
+    <tr>
+      <th>Lily</th>
+      <th>Gryfindor</th>
+      </tr>
+    </table>
+  </body>
+</html>
